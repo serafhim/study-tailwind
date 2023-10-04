@@ -4,7 +4,7 @@
   "description": "bullet in the winds",
   "main": "index.js",
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/sttyle.css --watch"
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch"
   },
   "keywords": [],
   "author": "",
